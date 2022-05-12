@@ -1,0 +1,12 @@
+{
+  "globalName": "UPARTNER",
+  "mongoUrl": "mongodb+srv://ozgrgn:WTPBxiTdWQhNiCf2@cluster0.fnprs.mongodb.net/upartner?retryWrites=true&w=majority",
+  "jwtConfig": {
+    "secret": "aysetatileciksin"
+  },
+
+  "auth": {
+    "user": "INFO OZGUR MAILI VARDI",
+    "pass": "blZw9O8i{~Xj"
+  }
+}
